@@ -33,7 +33,7 @@ The Community Advisory Board governance document ([PDF][1]) outlines membership,
     <a href="https://www.linkedin.com/in/babasaraki">Umar Ahmad</a>, Bauchi State University, Gadau, Nigeria and Africa CDC
   </div>
   <div class="gallery-card">
-    <img src="/images/cab/ZahraaAlsafwani.png"
+    <img src="/images/cab/ZahraaWajihAlsafwani.png"
             alt="Zahraa W. Alsafwani" title="Zahraa W. Alsafwani"/>
     <a href="https://www.linkedin.com/in/zahraa-wajih-alsafwani-967659234">Zahraa W. Alsafwani</a>, University of Nebraska Medical Center, USA
   </div>
