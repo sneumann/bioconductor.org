@@ -3024,7 +3024,7 @@ cases.follow_ups.other_clinical_attributes entity (&#64;LiNk-NY).
 Bug fixes and minor improvements
 
 - Removed legacy function, methods, endpoints, and arguments (&#64;LiNk-NY)
-- Use native pipe |> instead of magrittr::%>% (&#64;LiNk-NY)
+- Use native pipe &#124;> instead of magrittr::%>% (&#64;LiNk-NY)
 
 [GenomicFeatures](/packages/GenomicFeatures)
 ---------------
